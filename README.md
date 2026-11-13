@@ -36,3 +36,7 @@ Your personal email and professional image are included because they appear in t
 - `assets/portrait.png`: portrait extracted from your CV
 - `assets/Varun_Hirapara_CV_DE.pdf`: downloadable CV
 - `assets/favicon.svg`: browser icon
+
+
+## Photo fix
+The homepage photo is `portrait.png` in the same folder as `index.html`. Upload **all files and the assets folder** to GitHub (not just `index.html`). To replace the photo later, upload a new PNG named `portrait.png` at the repository root. After GitHub commits, Vercel redeploys automatically. If the older version appears, refresh with Ctrl+Shift+R.
